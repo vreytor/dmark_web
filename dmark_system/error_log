@@ -1,0 +1,22 @@
+[26-Jul-2017 17:58:34 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/dmarksys/public_html/dmark_system/config/conexion.php on line 8
+[27-Feb-2021 02:13:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'c0260478_dmarkdt'@'localhost' (using password: YES) in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 55
+[27-Feb-2021 02:13:56 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 58
+[27-Feb-2021 02:13:56 UTC] PHP Warning:  Login::dologinWithPostData(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 59
+[27-Feb-2021 02:14:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'c0260478_dmarkdt'@'localhost' (using password: YES) in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 55
+[27-Feb-2021 02:14:06 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 58
+[27-Feb-2021 02:14:06 UTC] PHP Warning:  Login::dologinWithPostData(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 59
+[25-Sep-2021 15:12:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'c0260478_dmarkdt'@'localhost' (using password: YES) in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 55
+[25-Sep-2021 15:12:46 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 58
+[25-Sep-2021 15:12:46 UTC] PHP Warning:  Login::dologinWithPostData(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 59
+[25-Sep-2021 15:12:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'c0260478_dmarkdt'@'localhost' (using password: YES) in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 55
+[25-Sep-2021 15:12:52 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 58
+[25-Sep-2021 15:12:52 UTC] PHP Warning:  Login::dologinWithPostData(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 59
+[25-Sep-2021 15:13:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'c0260478_dmarkdt'@'localhost' (using password: YES) in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 55
+[25-Sep-2021 15:13:04 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 58
+[25-Sep-2021 15:13:04 UTC] PHP Warning:  Login::dologinWithPostData(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 59
+[25-Sep-2021 15:13:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'c0260478_dmarkdt'@'localhost' (using password: YES) in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 55
+[25-Sep-2021 15:13:10 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 58
+[25-Sep-2021 15:13:10 UTC] PHP Warning:  Login::dologinWithPostData(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 59
+[25-Sep-2021 15:13:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'c0260478_dmarkdt'@'localhost' (using password: YES) in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 55
+[25-Sep-2021 15:13:15 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 58
+[25-Sep-2021 15:13:15 UTC] PHP Warning:  Login::dologinWithPostData(): Couldn't fetch mysqli in /home/utdvknel/public_html/dmark_system/classes/Login.php on line 59
