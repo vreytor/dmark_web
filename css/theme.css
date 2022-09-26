@@ -31,6 +31,10 @@ li {
 	body {
 		font-size: 13px;
 	}
+
+	#whatsapp {
+		display: none;
+	  }
 }
 /* Header */
 #header {
@@ -4443,11 +4447,20 @@ html.boxed .main {
 		-moz-border-radius: 0;
 		border-radius: 0;
 	}
+
+	#whatsapp {
+		display: none;
+	  }
 }
+
 
 @media (max-width: 767px) {
   /* Boxed */
 	html.boxed {
 		background: none !important;
 	}
+
+	#whatsapp {
+		display: none;
+	  }
 }

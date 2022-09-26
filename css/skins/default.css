@@ -20,6 +20,26 @@ a:active {
   color: #2264FF;
 }
 
+#whatsapp {
+  scale: 0.75;
+  bottom: 60px;
+  right:5px;
+  justify-items: start;
+  position: fixed;
+}
+
+circle {
+  fill: #25d366;
+}
+path {
+  fill: #fff;
+}
+
+svg {
+  width: 80px;
+  filter: drop-shadow(0 1px 4px rgba(0,0,0,.4));
+}
+
 html .heading-primary,
 html .lnk-primary,
 html .text-color-primary {
@@ -2943,6 +2963,14 @@ html #header .header-top.header-top-light .dropdown-menu a:focus {
   }
   #header .header-nav-main.header-nav-main-light nav > ul > li.active > a.dropdown-toggle:after {
     border-color: #2264FF transparent transparent transparent;
+  }
+
+  #whatsapp {
+    scale: 0.6;
+    bottom: 40px;
+    right:0px;
+    justify-items: start;
+    position: fixed;
   }
 }
 .testimonial blockquote {

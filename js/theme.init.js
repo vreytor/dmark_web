@@ -8,6 +8,8 @@
 		theme.PluginScrollToTop.initialize();
 	}
 
+	
+
 	// Tooltips
 	if ($.isFunction($.fn['tooltip'])) {
 		$('[data-tooltip]:not(.manual), [data-plugin-tooltip]:not(.manual)').tooltip();
